@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    var hilly = 500
+    var hilly = 400
 
     override func viewDidLoad() {
         super.viewDidLoad()
